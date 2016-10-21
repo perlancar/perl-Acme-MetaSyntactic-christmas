@@ -44,3 +44,13 @@ candy magic sparkle sugarplum joy tinsel robin cookie hope sweetie
 teddy jolly cosy sherry eve pinky
 mcsnowy mcslushy mcchilly mcglisten mcsparkle mcfrosty
 mcfreeze mcsnowballs mcicicles mcblizzard mcsparkles mcsnowflakes
+# names reindeer
+dasher
+dancer
+prancer
+vixen
+comet
+cupid
+donner
+blitzen
+rudolf
